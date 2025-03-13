@@ -41,7 +41,7 @@ else{
   return (
     <div className="container">
 
-    <div className="container m-4 px-4">
+    <div className="container my-4 px-4">
       <h1 className="mb-4">Sign up Here</h1>
       <form onSubmit={handleSubmit}>
         <div className="mb-3">
